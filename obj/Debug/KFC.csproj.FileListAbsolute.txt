@@ -1,0 +1,8 @@
+D:\C#\ConsoleApp1\KFC\bin\Debug\KFC.exe.config
+D:\C#\ConsoleApp1\KFC\bin\Debug\KFC.exe
+D:\C#\ConsoleApp1\KFC\bin\Debug\KFC.pdb
+D:\C#\ConsoleApp1\KFC\obj\Debug\KFC.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\KFC\obj\Debug\KFC.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleApp1\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\KFC\obj\Debug\KFC.exe
+D:\C#\ConsoleApp1\KFC\obj\Debug\KFC.pdb
